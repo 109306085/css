@@ -1,0 +1,30 @@
+body{
+	background-color: powderblue;
+}
+
+span{
+	color: crimson;
+}
+
+.h1{
+	font-family: Gill Sans;
+	color:midnightblue;
+	font-size: 250%;
+	margin-top: 5%;
+	background-color:steelblue; 
+}
+
+#img{
+	float: right;
+	width: 20%;
+	height: 40%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.p{
+	text-align: left;
+	color: darkred;
+	font-size: 200%;
+	font-family: Arial;
+}
